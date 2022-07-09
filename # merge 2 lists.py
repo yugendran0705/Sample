@@ -17,7 +17,7 @@ def merge(l1, l2):
         l3.extend(l1[i:])
     return l3
 l1=[1,2,3,4,5]
-l2=[6,7,8,9,10]
+l2=[6,7,8,9,11]
 l3=merge(l1,l2)
 print(l3)
 
